@@ -99,7 +99,7 @@ function Signin() {
                         <input type="submit" value="Sign In" className="text-white w-24 bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 font-medium rounded-md text-sm px-5 py-2.5 text-center mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900"></input>
                     </div>
                 </form>
-                <p className='text-left'>Dont have account? <Link to="/register" className='text-blue-400'>Create</Link></p>
+                <p className='text-left'>Dont have account? <Link to="/signup" className='text-blue-400'>Create</Link></p>
       </div>
     </div>
   )

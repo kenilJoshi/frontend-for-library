@@ -109,7 +109,7 @@ function SignUp() {
                         <input type="submit" value="Sign Up" className="text-white w-24 bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 font-medium rounded-md text-sm px-5 py-2.5 text-center mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900"></input>
                     </div>
                 </form>
-                <p className='text-left'>Do you have account? <Link to="/login" className='text-blue-400'>Sign in</Link></p>
+                <p className='text-left'>Do you have account? <Link to="/signin" className='text-blue-400'>Sign in</Link></p>
             </div>
         </div>
   )

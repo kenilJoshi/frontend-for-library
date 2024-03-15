@@ -32,7 +32,7 @@ function Layout() {
       
       // console.log('is it authenticated', userCtx.isAuthenticated);
     } else {
-      navigate("/signin")
+      navigate("/signup")
     }
   }
 
